@@ -3,19 +3,16 @@
 
 
 body {
-    background-color: darkslategrey;
-        
+    color: darkslategrey;
    
 }
 
 div {
     padding: 8px;
     position: relative;
-    width: 350px;
-    height: 2000px;
-    
-    background-color: silver;
-    color: darkslategrey;
+    width: 900px;
+    height: 700px;
+    background-color: #f8f8f8;
     margin: 145px auto 200px auto;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -24,8 +21,6 @@ div {
 }
 
 /* Long live House Stark */
-
-
 /* /*background: url(_imagens/fundo.jpg) ;*/
     /*background-position: 100%;
     background-size: 100%;
